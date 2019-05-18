@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.city.district_rate_hash_map_tree">
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
