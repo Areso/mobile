@@ -1,3 +1,4 @@
+import 'package:district_rate_hash_map_tree/map_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -10,11 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(
-        body: Center(
-          child: Text('District Rate Hash Map Tree'),
-        ),
-      ),
+      home: MapScreen(),
     );
   }
 }

@@ -69,3 +69,7 @@
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+# Secret
+/android/app/src/main/res/values/google_maps.xml
+/ios/Runner/GoogleMaps.plist
